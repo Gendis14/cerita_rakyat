@@ -1,0 +1,45 @@
+name: portofolio
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  path_provider: ^2.0.11 # Atau versi terbaru
+  cupertino_icons: ^1.0.6
+  lottie: ^2.0.0
+  google_fonts: ^4.0.3
+  url_launcher: ^6.3.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/Profile.jpg
+    - assets/roro.jpg
+    - assets/malin kundang.jpg
+    - assets/Tangkuba Perahu.jpg
+    - assets/timun mas.jpg
+    - assets/danau toba.jpg
+    - assets/sangkuriang1.jpg
+    - assets/sangkuriang2.jpg
+    - assets/sangkuriang3.jpg
+    - assets/malin1.jpg
+    - assets/malin2.jpg
+    - assets/malin3.jpg
+    - assets/toba1.jpg
+    - assets/toba2.jpg
+    - assets/timun1.jpg
+    - assets/timun2.jpg
+    - assets/timun3.jpg
+    - assets/prambanan1.jpg
+    - assets/prambanan2.jpg
